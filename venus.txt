@@ -1,4 +1,7 @@
 dfjfjklsjfkd
 
 i am editing online
+<<<<<<< HEAD
 local e
+=======
+editing again..................
